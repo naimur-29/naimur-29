@@ -24,7 +24,7 @@
 
 ---
 
-###📁 Some Of My Best Projects
+### 📁 Some Of My Best Projects
 
 - [My Current Portfolio](https://naimur29.netlify.app/)
 - [Made A Portfolio For My Friend](https://naimur29-rashed.netlify.app/)
