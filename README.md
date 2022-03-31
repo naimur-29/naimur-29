@@ -1,6 +1,6 @@
 ### Hi there, I'm Naimur 👋
 
-## I'm a Front End Developer, who love to code! 
+## I'm a Front End Developer, who loves to code! 
 
 - 📚 I’m currently learning React JS & Firebase.
 - 🎯 I’m focusing on learning.
