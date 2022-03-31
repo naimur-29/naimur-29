@@ -3,9 +3,9 @@
 ## I'm a Front End Developer, who love to code! 
 
 - 📚 I’m currently learning React JS & Firebase.
-- 👯 I’m focusing on learning.
+- 🎯 I’m focusing on learning.
 - 🥅 2022 Goals: Become a React JS developer.
-- ⚡ I love to watch ANIME on my free time & read LIGHT NOVELS.
+- ⚡ I love to watch anime on my free time & read light novels.
 
 ### Languages and Tools:
 
