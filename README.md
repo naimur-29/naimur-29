@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning React JS & Firebase.
 - 🎯 I’m focusing on learning.
-- 🥅 2022 Goals: Become a React JS developer.
+- 🥅 2022 Goals: Become a React JS developer, Learn API Development.
 - ⚡ I love to watch anime on my free time & read light novels.
 
 ### Languages and Tools:
