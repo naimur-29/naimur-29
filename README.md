@@ -16,11 +16,11 @@ And I can develop any website given the designs.
 - 👯 I love to watch ANIME on my free time & read LIGHT NOVELS.
 
 
-### 📁 Some Of My Best Projects
-- [My Current Portfolio (unfinished)](https://naimur29.netlify.app/)
-- [Quiz App](https://naimur29-quizapp.netlify.app/)
-- [AnimePahe Rebuild](https://naimur29-animepahe.netlify.app/)
-- [Get Umbrellas](https://naimur29-getumbrellas.netlify.app/)
+### 📁 Some Of My Best Projects (Repo Link)
+- [My Current Portfolio (unfinished)](https://github.com/naimur-29/Portfolio_01)
+- [Quiz App](https://github.com/naimur-29/quiz-app)
+- [AnimePahe Rebuild](https://github.com/naimur-29/animepahe-rebuild)
+- [Get Umbrellas](https://github.com/naimur-29/get-umbrellas)
 
 
 Find out more about me & feel free to connect with me here:
