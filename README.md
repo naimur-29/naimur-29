@@ -26,20 +26,20 @@ And I can develop any website given the designs.
 Find out more about me & feel free to connect with me here:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/naimur-rahman-799769202/">
+	<a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 <!-- 	<a href="https://twitter.com/AhsanUl06147007">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
 	 
-  <a href="https://www.naimur29.com/">
+  <a href="https://www.naimur29.com/" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio(unfinished)-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 <!--   <a href="mailto:https://github.com/naimur-29">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a> -->
-	<a href="https://stackoverflow.com/users/18246106/naimur-rahman">
+	<a href="https://stackoverflow.com/users/18246106/naimur-rahman" target="_blank">
 		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 	</a>
 </p>
