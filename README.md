@@ -10,8 +10,8 @@ I am Naimur. I am a Full Stack Web Developer. I am able to do any programming-re
 And I can develop any website given the designs.
 
 - 🌱 I’m currently learning FastAPI, PostgreSQL & React JS.
-- 💬 Ask me about anything about programming and coding. 
-- ⚡ Fun fact: I'm afraid of PHP  
+- 💬 Ask me about anything about programming and coding!!
+- ⚡ Fun fact: I'm afraid of PHP.
 
 
 Find out more about me & feel free to connect with me here:
