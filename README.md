@@ -9,9 +9,18 @@
 I am Naimur. I am a Full Stack Web Developer. I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React JS, Next JS , HTML, CSS, SASS, Material UI, Tailwind CSS, and FastAPI(Python).
 And I can develop any website given the designs.
 
-- 🌱 I’m currently learning FastAPI, PostgreSQL & React JS.
-- 💬 Ask me about anything about programming and coding!!
+- 📚 I’m currently learning FastAPI, PostgreSQL & React JS.
+- 💬 Ask me about anything about programming and coding...
 - ⚡ Fun fact: I'm afraid of PHP.
+- 🥅 2022 Goals: Become a React JS developer.
+- 👯 I love to watch ANIME on my free time & read LIGHT NOVELS.
+
+
+### 📁 Some Of My Best Projects
+- [My Current Portfolio (unfinished)](https://naimur29.netlify.app/)
+- [Quiz App](https://naimur29-quizapp.netlify.app/)
+- [AnimePahe Rebuild](https://naimur29-animepahe.netlify.app/)
+- [Get Umbrellas](https://naimur29-getumbrellas.netlify.app/)
 
 
 Find out more about me & feel free to connect with me here:
@@ -23,16 +32,16 @@ Find out more about me & feel free to connect with me here:
 <!-- 	<a href="https://twitter.com/AhsanUl06147007">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
-	<a href="https://stackoverflow.com/users/18246106/naimur-rahman">
-		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-	</a>
 	 
   <a href="https://www.naimur29.com/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+		<img src="https://img.shields.io/badge/portfolio(unfinished)-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 <!--   <a href="mailto:https://github.com/naimur-29">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a> -->
+	<a href="https://stackoverflow.com/users/18246106/naimur-rahman">
+		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+	</a>
 </p>
 
 ---
