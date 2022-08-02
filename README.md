@@ -23,6 +23,9 @@ Find out more about me & feel free to connect with me here:
 <!-- 	<a href="https://twitter.com/AhsanUl06147007">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a> -->
+	<a href="https://stackoverflow.com/users/18246106/naimur-rahman">
+		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+	</a>
 	 
   <a href="https://www.naimur29.com/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -30,9 +33,6 @@ Find out more about me & feel free to connect with me here:
 <!--   <a href="mailto:https://github.com/naimur-29">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a> -->
-   <a href="https://stackoverflow.com/users/18246106/naimur-rahman">
-		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-	</a>
 </p>
 
 ---
