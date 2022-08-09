@@ -11,9 +11,9 @@ And I can develop any website given the designs.
 
 - 📚 I’m currently learning FastAPI, PostgreSQL & React JS.
 - 💬 Ask me about anything about programming and coding...
-- ⚡ Fun fact: I'm afraid of PHP.
 - 🥅 2022 Goals: Become a React JS developer.
-- 👯 I love to watch ANIME on my free time & read LIGHT NOVELS.
+- 👯 I love to watch anime on my free time & read light novels.
+- ⚡ Fun fact: I'm afraid of php.
 
 
 ### 📁 Some Of My Best Projects (Repo Link)
