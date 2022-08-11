@@ -1,5 +1,5 @@
 
-# Hey, I'm Naimur! Great to see you here! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="20px" height="40px">
+# Hey, I'm Naimur, Welcome! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="20px" height="40px">
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEOkqIFhRkcPA/profile-displaybackgroundimage-shrink_350_1400/0/1648575476968?e=1665619200&v=beta&t=0fEqPHKqWX5Ig8qDd9S4G_OUyiykXRaL5fjmiaQbE58">
 
