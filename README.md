@@ -9,11 +9,12 @@
 I am Naimur. I am a Full Stack Web Developer. I am able to do any programming-related task by handling difficult and hard situations at any time. I have a lot of good skills and experience in JavaScript, React JS, Next JS , HTML, CSS, SASS, Material UI, Tailwind CSS, and FastAPI(Python).
 And I can develop any website given the designs.
 
+
+- ⚡ I'm a fast learner & I can cope according to any situation.
 - 📚 I’m currently learning FastAPI, PostgreSQL & React JS.
-- 💬 Ask me about anything about programming and coding...
 - 🥅 2022 Goals: Become a React JS developer.
+- 💬 Ask me about anything about programming and coding...
 - 👯 I love to watch anime on my free time & read light novels.
-- ⚡ Fun fact: I'm afraid of php.
 
 
 ### 📁 Some Of My Best Projects (Repo Link)
