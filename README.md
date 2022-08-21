@@ -23,7 +23,7 @@ And I can develop any website given the designs.
 - [Get Umbrellas](https://github.com/naimur-29/get-umbrellas)
 
 
-Find out more about me & feel free to connect with me here:
+### Find out more about me & feel free to connect with me here:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
@@ -43,12 +43,6 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 	</a>
 </p>
-
----
-
-![Naimur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=naimur-29&hide_border=true&theme=redical)
-
----
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/naimur-29)
@@ -112,6 +106,12 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-29&hide_border=true&theme=radical" />
 </p>
   
+---
+
+![Naimur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=naimur-29&hide_border=true&theme=redical)
+
+---
+
 
 
 
