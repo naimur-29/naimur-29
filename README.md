@@ -46,17 +46,13 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Ahsan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=naimur-29&hide_border=true&theme=redical)
+![Naimur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=naimur-29&hide_border=true&theme=redical)
 
 ---
 
- 
-<!--   
-
-
-   ![Profile views](https://gpvc.arturio.dev/Ahsan-Ullah1871 )  
- -->
- 
+<!--
+![Profile views](https://gpvc.arturio.dev/naimur-29)
+-->
 
 ## ⚡ Tech Stack
 
@@ -86,14 +82,17 @@ Find out more about me & feel free to connect with me here:
   
 ### 🧑🏻‍💻 Tools & Platform
 
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2b?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Linux](https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&color=434343)
+
+<!--
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2b?style=for-the-badge&logo=firebase&logoColor=white)
+-->
 <!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) -->
 <!-- ![Adobe](https://img.shields.io/badge/Adobe-fa0f00?style=for-the-badge&logo=firebase&logoColor=white) -->
