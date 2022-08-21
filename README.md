@@ -67,18 +67,19 @@ Find out more about me & feel free to connect with me here:
 ### 💻 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/fastapi-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-C69?style=for-the-badge&logo=sass&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ed64)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+
 <!-- ![Next.js](https://img.shields.io/badge/Next%20js-4e5563?style=for-the-badge&logo=tailwindcss&logoColor=white) -->
 <!-- ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white) -->
 <!-- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/yarn-7743CE?style=for-the-badge&logo=yarn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ed64)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
   
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -98,18 +99,18 @@ Find out more about me & feel free to connect with me here:
 <!-- ![Adobe](https://img.shields.io/badge/Adobe-fa0f00?style=for-the-badge&logo=firebase&logoColor=white) -->
 
 
+ <!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-29&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur-29&theme=nord_dark)
+
+
 ## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naimur-29&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-29&hide_border=true&theme=radical" />
 </p>
-
-
- <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-29&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur-29&theme=nord_dark)
   
 
 
