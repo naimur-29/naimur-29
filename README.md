@@ -3,7 +3,7 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEOkqIFhRkcPA/profile-displaybackgroundimage-shrink_350_1400/0/1648575476968?e=1665619200&v=beta&t=0fEqPHKqWX5Ig8qDd9S4G_OUyiykXRaL5fjmiaQbE58">
 
-## Frontend Developer => JavaScript | React JS | Python (Mostly for Backend)
+## Full Stack Developer => JavaScript | React JS | Python (Mostly for Backend)
 <!-- #### Full Stack Web Developer | JavaScript | React | Next.js Developer | Python Developer (Mostly for Backend) -->
  
 I am Naimur. I am a Full Stack Web Developer. I am able to do any programming-related task by handling difficult and hard situations at any time. I have good skills & experience in JavaScript, React JS, Next JS , HTML, CSS, SASS, Tailwind CSS, and FastAPI(Python). I also do machine learning & data analysis.
