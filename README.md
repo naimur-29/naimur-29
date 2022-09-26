@@ -6,11 +6,11 @@
 ## Full Stack Developer => JavaScript | React JS | Python (Mostly for Backend)
 <!-- #### Full Stack Web Developer | JavaScript | React | Next.js Developer | Python Developer (Mostly for Backend) -->
  
-I am Naimur. I am a Full Stack Web Developer. I am able to do any programming-related task by handling difficult and hard situations at any time. I have good skills & experience in JavaScript, React JS, Next JS , HTML, CSS, SASS, Tailwind CSS, and FastAPI(Python). I also do machine learning & data analysis.
-And I can develop any website given the designs.
+I'm a Full Stack Web Developer. I'm able to do any programming-related task by handling difficult and hard situations at any time. I've good skills & experience in JavaScript, React JS, HTML, CSS, SASS, Tailwind CSS, and FastAPI(Python). I also do machine learning & data analysis.
+I can develop any website given the designs.
 
 
-- ⚡ I'm a fast learner & I can cope according to any situation.
+- ⚡ I'm a fast learner & I can cope with any situation.
 - 📚 I’m currently learning FastAPI, PostgreSQL & React JS.
 - 🥅 2022 Goals: Become a full stack developer.
 - 👯 I love to watch anime on my free time & read light novels.
