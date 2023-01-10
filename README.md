@@ -1,7 +1,7 @@
 
 # Hey, I'm Naimur, Welcome! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="40px" height="40px">
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEOkqIFhRkcPA/profile-displaybackgroundimage-shrink_350_1400/0/1648575476968?e=1671062400&v=beta&t=sWuRSmrxrwX396ecvhE-BgrTm5-LIOseOYdwYAQC7_o">
+<img src="https://media.licdn.com/dms/image/C4E16AQEOkqIFhRkcPA/profile-displaybackgroundimage-shrink_350_1400/0/1648575476968?e=1678924800&v=beta&t=BhTbPMnjD7wuPzXu4jgUINjB4Nf7rzqRH1UhyODxwBU">
 
 ## Full Stack Developer => JavaScript | React JS | Python (Mostly for Backend)
 <!-- #### Full Stack Web Developer | JavaScript | React | Next.js Developer | Python Developer (Mostly for Backend) -->
