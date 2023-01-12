@@ -101,14 +101,14 @@ I can develop any website given the designs.
 
 ## 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naimur-29&show_icons=true&hide_border=true&theme=radical" />
+<p align="left">
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naimur-29&show_icons=true&hide_border=true&theme=radical" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-29&hide_border=true&theme=radical" />
 </p>
   
 ---
 
-![Naimur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=naimur-29&hide_border=true&theme=redical)
+<!-- ![Naimur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=naimur-29&hide_border=true&theme=redical) -->
 
 ---
 
