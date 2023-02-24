@@ -114,7 +114,7 @@ I can develop any website given the designs.
 
 
 
-## 🎉 Fun Codes
+<!-- ## 🎉 Fun Codes
 ### 1. 3D Donut in ELM (JS) :
 ```elm
 --                                      _,------------,_
@@ -165,7 +165,7 @@ main                 =t---▀▀█▄▄▄▄-------------------------------�
 --                                \_____ @luca_mug 2021 ____/
 --                                      `--------------'
 
-```
+``` -->
    
   
    
