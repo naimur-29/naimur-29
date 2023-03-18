@@ -17,11 +17,11 @@ I can develop any website given the designs.
 
 
 ### 📁 Some Of My Best Projects (Repo Link)
-- [My Current Portfolio (unfinished)](https://github.com/naimur-29/Portfolio_01)
-- [Quiz App](https://github.com/naimur-29/quiz-app)
+- [My Current Portfolio (unfinished)](https://github.com/naimur-29/professional-portfolio)
+<!-- - [Quiz App](https://github.com/naimur-29/quiz-app)
 - [AnimePahe Rebuild](https://github.com/naimur-29/animepahe-rebuild)
 - [Get Umbrellas](https://github.com/naimur-29/get-umbrellas)
-
+ -->
 
 ### Find out more about me & feel free to connect with me here:
 
