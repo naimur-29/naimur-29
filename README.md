@@ -3,53 +3,60 @@
 
 <img src="68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344531364151454f6b71494668526b6350412f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3335305f313430302f302f.jpg">
 
-## Full Stack Developer => JavaScript | React JS | Python (Mostly for Backend)
-<!-- #### Full Stack Web Developer | JavaScript | React | Next.js Developer | Python Developer (Mostly for Backend) -->
+## Passionate Full Stack Web Developer | Problem Solver Extraordinaire | Uniting Design and Functionality
+## Find out more about me & feel free to connect with me here:
+<p align="center">
+  	<a href="https://dev.naimur29.com/" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=About.me&logoColor=black" />
+	</a>
+ 	<a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://naimur29.hashnode.dev/" target="_blank">
+		<img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" />
+	</a>
+	<a href="https://dev.naimur29.com/contact" target="_blank">
+		<img src="https://img.shields.io/badge/prof.naimur29@gmail.com-64ffaa?style=for-the-badge&logo=gmail&logoColor=black" />
+	</a>
+</p>
+
+### 🚀 Transforming Vision into Seamless Digital Reality 🚀
+Greetings! I'm Naimur, a highly adaptable and driven Full Stack Web Developer with a knack for tackling intricate challenges head-on. With a proven track record of delivering top-notch solutions, I excel in JavaScript, React JS, HTML, CSS, SASS, and Tailwind CSS. On the backend, I harness the power of FastAPI (Python) to build robust and efficient systems.
  
-I'm a Full Stack Web Developer. I'm able to do any programming-related task by handling difficult and hard situations at any time. I've good skills & experience in JavaScript, React JS, HTML, CSS, SASS, Tailwind CSS, and FastAPI(Python). I also do machine learning & data analysis.
-I can develop any website given the designs.
+### 🌐 Technical Proficiencies:
+- 🌟 Frontend: JavaScript | React JS | HTML | CSS | SASS | Tailwind CSS
+- 🌟 Backend: FastAPI (Python) | Node.js
+- 🌟 Problem Solving: Thriving in high-pressure scenarios with an unwavering focus on resolution.
 
+### 🤖 Beyond Web Development:
+My passion extends to the realm of machine learning and data analysis. Leveraging these skills, I don't just build websites; I engineer holistic solutions that empower businesses to make data-driven decisions.
 
-- ⚡ I'm a fast learner & I can cope with any situation.
-- 📚 I’m currently learning FastAPI, PostgreSQL & React JS.
-- 🥅 2022 Goals: Become a full stack developer.
-- 👯 I love to watch anime on my free time & read light novels.
+### 🛠️ Key Attributes:
+- Innovative mindset that turns abstract concepts into functional reality.
+- Adept at translating design mockups into polished and responsive websites.
+- Proactive problem solver with a keen eye for detail and performance optimization.
 
+### 🌐 Portfolio Highlights:
+- [SpendWise](https://github.com/naimur-29/SpendWise), a collaborative project that keeps track of your expense & income flow!
+- [AddressVault](https://github.com/naimur-29/AddressVault), a modern web application that helps you organize your contacts & even set up emails efficiently!
+- [UpcomingArtistRadio](https://github.com/naimur-29/ferm-queue-site), a project requested by a client to manage his stream queue!
+- [Enchanted Labyrinth](https://github.com/naimur-29/Enchanted-Labyrinth), a maze game that's both intuiative and fun to play!
 
-### 📁 Some Of My Best Projects (Repo Link)
+#FullStackWebDeveloper #JavaScript #ReactJS #FastAPI #ProblemSolver #MachineLearning
+
+<!-- ### 📁 Some Of My Best Projects (Repo Link)
 - [My Current Portfolio (unfinished)](https://github.com/naimur-29/professional-portfolio-site)
-<!-- - [Quiz App](https://github.com/naimur-29/quiz-app)
+- [Quiz App](https://github.com/naimur-29/quiz-app)
 - [AnimePahe Rebuild](https://github.com/naimur-29/animepahe-rebuild)
 - [Get Umbrellas](https://github.com/naimur-29/get-umbrellas)
  -->
 
-### Find out more about me & feel free to connect with me here:
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-<!-- 	<a href="https://twitter.com/AhsanUl06147007">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a> -->
-	 
-  <a href="https://www.naimur29.com/" target="_blank">
-		<img src="https://img.shields.io/badge/portfolio(unfinished)-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a>
-<!--   <a href="mailto:https://github.com/naimur-29">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a> -->
-	<a href="https://stackoverflow.com/users/18246106/naimur-rahman" target="_blank">
-		<img src="https://img.shields.io/badge/Stackoverflow-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-	</a>
-</p>
 
 <!--
 ![Profile views](https://gpvc.arturio.dev/naimur-29)
 -->
 
 ## ⚡ Tech Stack
-
 ### 🚀 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -102,9 +109,9 @@ I can develop any website given the designs.
 <!-- ## 📈 Stats -->
 
 <p align="left">
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naimur-29&show_icons=true&hide_border=true&theme=radical" /> -->
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-29&hide_border=true&theme=radical" /> -->
-<!-- </p> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naimur-29&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-29&hide_border=true&theme=radical" />
+</p>
   
 ---
 
