@@ -37,10 +37,10 @@ My passion extends to the realm of machine learning and data analysis. Leveragin
 - Proactive problem solver with a keen eye for detail and performance optimization.
 
 ### 🌐 Portfolio Highlights:
-- [SpendWise](https://github.com/naimur-29/SpendWise), a collaborative project that keeps track of your expense & income flow!
-- [AddressVault(ongoing)](https://github.com/naimur-29/AddressVault), a modern web application that helps you organize your contacts & even set up emails efficiently!
 - [UpcomingArtistRadio](https://github.com/naimur-29/ferm-queue-site), a project requested by a client to manage his stream queue!
+- [SpendWise](https://github.com/naimur-29/SpendWise), a collaborative project that keeps track of your expense & income flow!
 - [BoomEscape](https://github.com/naimur-29/BoomEscape), a web based game similar to minesweeper!
+- [AddressVault(ongoing)](https://github.com/naimur-29/AddressVault), a modern web application that helps you organize your contacts & even set up emails efficiently!
 
 #FullStackWebDeveloper #JavaScript #ReactJS #FastAPI #ProblemSolver #MachineLearning
 
