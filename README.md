@@ -3,7 +3,7 @@
 
 <img src="68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344531364151454f6b71494668526b6350412f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3335305f313430302f302f.jpg">
 
-## Passionate Full Stack Web Developer | Problem Solver Extraordinaire | Uniting Design and Functionality
+## Passionate JavaScript Engineer | Problem Solver Extraordinaire | Uniting Design and Functionality
 ## Find out more about me & feel free to connect with me here:
 <p align="center">
   	<a href="https://dev.naimur29.com/" target="_blank">
