@@ -6,7 +6,7 @@
 ## Passionate JavaScript Engineer | Problem Solver Extraordinaire | Uniting Design and Functionality
 ## Find out more about me & feel free to connect with me here:
 <p align="center">
-  	<a href="https://dev.naimur29.com/" target="_blank">
+  	<a href="https://dev.naimur29.site/" target="_blank">
 		<img src="https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=About.me&logoColor=black" />
 	</a>
  	<a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
@@ -15,7 +15,7 @@
 	<a href="https://naimur29.hashnode.dev/" target="_blank">
 		<img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" />
 	</a>
-	<a href="https://dev.naimur29.com/contact" target="_blank">
+	<a href="https://dev.naimur29.site/contact" target="_blank">
 		<img src="https://img.shields.io/badge/prof.naimur29@gmail.com-64ffaa?style=for-the-badge&logo=gmail&logoColor=black" />
 	</a>
 </p>
