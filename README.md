@@ -59,7 +59,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 <img
   src="assets/altrbot.png"
   alt="Altrbot services interface"
-  width="200"
+  width="40%"
   align="right"
 />
 
@@ -82,7 +82,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 <img
   src="assets/uar-queue-system.png"
   alt="UAR Queue System interface"
-  width="200"
+  width="40%"
   align="right"
 />
 
@@ -105,7 +105,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 <img
   src="assets/spendwise.png"
   alt="SpendWise expense tracking interface"
-  width="200"
+  width="40%"
   align="right"
 />
 
@@ -128,7 +128,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 <img
   src="assets/hiddenreads.png"
   alt="Hidden Reads library interface"
-  width="200"
+  width="40%"
   align="right"
 />
 
@@ -149,7 +149,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 <img
   src="assets/paper.jpg"
   alt="Hidden Reads library interface"
-  width="200"
+  width="40%"
   align="right"
 />
 
