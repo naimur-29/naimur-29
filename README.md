@@ -6,7 +6,7 @@
 I build Python backend systems, Django applications, and automation workflows. I am based in Bangladesh and open to international remote backend, automation, and internship roles. I am comfortable with async communication and planned timezone overlap.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
+  <a href="https://www.linkedin.com/in/naimur-rahman-799769202/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32">
   </a>
   <a href="https://dev.naimur29.site/">
