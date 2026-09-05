@@ -6,7 +6,7 @@
 I build Python backend systems, Django applications, and automation workflows. I am based in Bangladesh and open to international remote backend, automation, and internship roles. I am comfortable with async communication and planned timezone overlap.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naimur-rahman-799769202/">
+  <a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32">
   </a>
   <a href="https://dev.naimur29.site/">
@@ -19,11 +19,13 @@ I build Python backend systems, Django applications, and automation workflows. I
 
 ## Skills
 
-**Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Docker<br>
-**Automation:** Selenium, RPA, workflow automation, process control<br>
-**Frontend:** Svelte<br>
-**Project experience:** React, TypeScript, Firebase, MongoDB<br>
-**Agent-assisted development:** Experienced with Codex and Claude Code as implementation tools, with a focus on reviewing and shipping working changes.
+### While I'm a programmer and problem solver at core, frameworks and tools I've worked are :-
+
+**Frontend:** Reactjs, Nextjs & Sveltejs.<br>
+**Backend:** Django, Django REST Framework, FastAPI, Pytorch & Tensorflow.<br>
+**Automation:** Playwright, Selenium, RPA, Workflow Automation & Process Control.<br>
+**Database & Others:** PostgresSQL, Firebase, MongoDB, Docker & Nginx<br>
+**Agent-assisted development:** Experienced with Codex and Claude Code as implementation tools, with a heavy focus on self reviewing and shipping working changes.
 
 ## Experiences & Works
 
