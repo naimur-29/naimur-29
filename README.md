@@ -143,7 +143,15 @@ Add one small, approved screenshot beside each project description. Crop out bro
 
 ## Publication
 
+<img
+  src="assets/paper.jpg"
+  alt="Hidden Reads library interface"
+  width="200"
+  align="right"
+/>
+
 [TL-MED: Multiclass eye disease classification based on ensemble transfer learning and CRVO-BRVO detection via a single shot multibox detector](https://doi.org/10.1177/20552076251379729)
+
 
 Co-author in *Digital Health*. I wrote the TensorFlow and Keras experiment code, fitted pretrained image models, and conducted the ensemble experiment.
 
