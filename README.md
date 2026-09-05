@@ -1,190 +1,108 @@
+# Naimur Rahman
 
-# Hey, I'm Naimur, Welcome! <img src="https://i.ibb.co/TqQSq2q/wave.gif" width="40px" height="40px">
+## Python Backend Developer | Django, FastAPI, PostgreSQL | Automation
 
-<img src="68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344531364151454f6b71494668526b6350412f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3335305f313430302f302f.jpg">
+I build Python backend systems, Django applications, and automation workflows. I am based in Bangladesh and open to international remote backend, automation, and internship roles. I am comfortable with async communication and planned timezone overlap.
 
-## Passionate JavaScript Engineer | Problem Solver Extraordinaire | Uniting Design and Functionality
-## Find out more about me & feel free to connect with me here:
 <p align="center">
-  	<a href="https://dev.naimur29.site/" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-64ffda?style=for-the-badge&logo=About.me&logoColor=black" />
-	</a>
- 	<a href="https://www.linkedin.com/in/naimur-rahman-799769202/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://naimur29.hashnode.dev/" target="_blank">
-		<img src="https://img.shields.io/badge/Hashnode-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white" />
-	</a>
-	<a href="https://dev.naimur29.site/contact" target="_blank">
-		<img src="https://img.shields.io/badge/prof.naimur29@gmail.com-64ffaa?style=for-the-badge&logo=gmail&logoColor=black" />
-	</a>
+  <a href="https://www.linkedin.com/in/naimur-rahman-799769202/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
+  </a>
+  <a href="https://dev.naimur29.site/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="28">
+  </a>
+  <a href="mailto:prof.naimur29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28">
+  </a>
 </p>
 
-### 🚀 Transforming Vision into Seamless Digital Reality 🚀
-Greetings! I'm Naimur, a highly adaptable and driven Full Stack Web Developer with a knack for tackling intricate challenges head-on. With a proven track record of delivering top-notch solutions, I excel in JavaScript, React JS, HTML, CSS, SASS, and Tailwind CSS. On the backend, I harness the power of FastAPI (Python) to build robust and efficient systems.
- 
-### 🌐 Technical Proficiencies:
-- 🌟 Frontend: JavaScript | React JS | HTML | CSS | SASS | Tailwind CSS
-- 🌟 Backend: FastAPI (Python) | Node.js
-- 🌟 Problem Solving: Thriving in high-pressure scenarios with an unwavering focus on resolution.
+## Skills
 
-### 🤖 Beyond Web Development:
-My passion extends to the realm of machine learning and data analysis. Leveraging these skills, I don't just build websites; I engineer holistic solutions that empower businesses to make data-driven decisions.
+**Backend:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, Docker<br>
+**Automation:** Selenium, RPA, workflow automation, process control<br>
+**Frontend:** Svelte<br>
+**Project experience:** React, TypeScript, Firebase, MongoDB<br>
+**Agent-assisted development:** Experienced with Codex and Claude Code as implementation tools, with a focus on reviewing and shipping working changes.
 
-### 🛠️ Key Attributes:
-- Innovative mindset that turns abstract concepts into functional reality.
-- Adept at translating design mockups into polished and responsive websites.
-- Proactive problem solver with a keen eye for detail and performance optimization.
-
-### 🌐 Portfolio Highlights:
-- [UpcomingArtistRadio](https://github.com/naimur-29/ferm-queue-site), a project requested by a client to manage his stream queue!
-- [SpendWise](https://github.com/naimur-29/SpendWise), a collaborative project that keeps track of your expense & income flow!
-- [BoomEscape](https://github.com/naimur-29/BoomEscape), a web based game similar to minesweeper!
-- [Hidden Reads](https://github.com/naimur-29/Hidden-Reads), a curated collection of captivating light novels and web novels!
-- [AddressVault(incomplete)](https://github.com/naimur-29/AddressVault), a modern web application that helps you organize your contacts & even set up emails efficiently!
-
-#FullStackWebDeveloper #JavaScript #ReactJS #FastAPI #ProblemSolver #MachineLearning
-
-<!-- ### 📁 Some Of My Best Projects (Repo Link)
-- [My Current Portfolio (unfinished)](https://github.com/naimur-29/professional-portfolio-site)
-- [Quiz App](https://github.com/naimur-29/quiz-app)
-- [AnimePahe Rebuild](https://github.com/naimur-29/animepahe-rebuild)
-- [Get Umbrellas](https://github.com/naimur-29/get-umbrellas)
- -->
-
+## Experiences & Works
 
 <!--
-![Profile views](https://gpvc.arturio.dev/naimur-29)
+Project screenshot instructions:
+
+Add one small, approved screenshot beside each project description. Crop out browser chrome, private URLs, credentials, personal data, and unrelated UI. Use dummy data when a screenshot would expose real users or business information.
 -->
 
-## ⚡ Tech Stack
-### 🚀 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=306998)
-![C](https://img.shields.io/badge/Lang-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
- 
-### 💻 Libraries & Framework
+<table>
+  <tr>
+    <td width="72%" valign="top" colspan=2>
+      <h3><strong>Employment at <a href="https://www.altersense.com">AlterSense Ltd.</a></strong></h3>
+      <p><strong>Junior Software Developer</strong> · January 2026 to present · On-site<br></p>
+      <p><strong>Software Developer Intern</strong> · October 2025 to December 2025 · On-site</p>
+    </td>
+  </tr>
+    <tr>
+    <td width="72%" valign="top">
+      <h3>Altrbot</h3>
+      <p>Altrbot is an AlterSense RPA product and the largest Django backend project I have worked on so far. Some of the processes we've automated for various clients are: </p>
+      <ul>
+        <li>Data extraction (Invoices, POs, etc.)</li>
+        <li>Portal submissions (Booking, Issuance, etc.)</li>
+      </ul>
+    </td>
+    <td width="28%" valign="center">
+      <!-- Add an approved screenshot at assets/uar-queue-system.png. -->
+      <img src="assets/altrbot-services.png" alt="UAR Queue System interface" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td width="72%" valign="top">
+      <h3>UAR Queue System</h3>
+      <p>A client project for managing a stream queue. The source repository is private. The project uses React, FastAPI, and MongoDB.</p>
+    </td>
+    <td width="28%" valign="center">
+      <!-- Add an approved screenshot at assets/uar-queue-system.png. -->
+      <img src="assets/altrbot-services.png" alt="UAR Queue System interface" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td width="72%" valign="top">
+      <h3><a href="https://spendwise29.netlify.app">SpendWise</a></h3>
+      <p>A collaborative React and Firebase application for tracking expenses and income.</p>
+    </td>
+    <td width="28%" valign="center">
+      <!-- Add an approved screenshot at assets/spendwise.png. -->
+      <img src="assets/altrbot-services.png" alt="SpendWise expense tracking interface" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td width="72%" valign="top">
+      <h3><a href="https://hiddenreads.netlify.app">Hidden Reads</a></h3>
+      <p>A React, TypeScript, and Firebase project for organizing light novels and web novels.</p>
+    </td>
+    <td width="28%" valign="bottom">
+      <!-- Add an approved screenshot at assets/hidden-reads.png. -->
+      <img src="assets/altrbot-services.png" alt="Hidden Reads library interface" width="200">
+    </td>
+  </tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/fastapi-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-C69?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ed64)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+## Publication
 
-<!-- ![Next.js](https://img.shields.io/badge/Next%20js-4e5563?style=for-the-badge&logo=tailwindcss&logoColor=white) -->
-<!-- ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white) -->
-<!-- ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
+[TL-MED: Multiclass eye disease classification based on ensemble transfer learning and CRVO-BRVO detection via a single shot multibox detector](https://doi.org/10.1177/20552076251379729)
 
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/yarn-7743CE?style=for-the-badge&logo=yarn&logoColor=white)
-  
-### 🧑🏻‍💻 Tools & Platform
-
-![GitHub](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2b?style=for-the-badge&logo=firebase&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Linux](https://img.shields.io/badge/Linux-fff?style=for-the-badge&logo=linux&color=434343)
+Co-author in *Digital Health*. I wrote the TensorFlow and Keras experiment code, fitted pretrained image models, and conducted the ensemble experiment.
 
 <!--
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+Profile maintenance links. Keep these hidden until each item is repaired and verified.
+
+- Hashnode: https://naimur29.hashnode.dev/
+- Portfolio contact page: https://dev.naimur29.site/contact
+- Former portfolio repository: https://github.com/naimur-29/professional-portfolio-site
+- Quiz App: https://github.com/naimur-29/quiz-app
+- AnimePahe Rebuild: https://github.com/naimur-29/animepahe-rebuild
+- Get Umbrellas: https://github.com/naimur-29/get-umbrellas
+- BoomEscape: https://github.com/naimur-29/BoomEscape
+- AddressVault: https://github.com/naimur-29/AddressVault
+
+Restore a project only after checking its repository, demo, README, and privacy history.
 -->
-<!-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
-<!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) -->
-<!-- ![Adobe](https://img.shields.io/badge/Adobe-fa0f00?style=for-the-badge&logo=firebase&logoColor=white) -->
-
-
- <!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naimur-29&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naimur-29&theme=nord_dark)
-
-
-<!-- ## 📈 Stats -->
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naimur-29&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-29&hide_border=true&theme=radical" />
-</p>
-  
----
-
-<!-- ![Naimur's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=naimur-29&hide_border=true&theme=redical) -->
-
----
-
-
-
-<!-- ## 🎉 Fun Codes
-### 1. 3D Donut in ELM (JS) :
-```elm
---                                      _,------------,_
-module                             Main exposing(..)-------,___
-import                        Browser.Events-------▄▄▄▄--------\____
-import                   Html exposing(..)-------------▀▀▀██▄▄▄▄----\__
-import                Array exposing(..)---------------------▀▀███▄▄---\__
-import             Browser exposing(..)--------------------------▀▀██▄▄---\__
-import          Html.Events exposing(..)-----------------------------▀▀█▄----\_
-import        Html.Attributes exposing(..)------------------------------▀▀▄----\
-d           ct sA st cA cB sB i = (round(40+30*(1/(sin i* (ct+2)*sA+st*cA+5))*(cos
-           i*(ct+2)*cB-(sin i*(ct+2)*cA-st*sA)*sB)))+80*(round(12+15* (1/(sin i*(ct+
-          2)*sA+st*cA+5))*(cos i*(ct+2)*sB+(sin i*(ct+2)*cA-st*sA)*cB)))------------\
-o       (k,{b,z}) = if k<1760 then o (k+1,{b=push(if remainderBy 80 k==79 then"\n"else
-       " ")b,z=push 0 z})else(k,{b=b,z=z})---------------------------------------------\
-n     (j,jld,re) = if j<6.28 then n (j+0.07,jld,( \{sA,cA,cB,sB}j2 r2->(\(_,_,c)->c)(u (0
-     ,{cA=cA,cB=cB,sA=sA,sB=sB,ct=cos j2,st=sin j2},r2)))jld j re)else(j,jld,re)---------\
-u   (i,ild,re) = if i<6.28 then u (i+0.02,ild,(\{sA,cA,cB,sB,ct,st}i2{z,b} -> s (get (d ct
-    sA st cA cB sB i2) z)(\zv->if(round(              12+15*(1/(sin i2*(ct+2)*sA+st*cA+5))*
-   (cos i2* (ct+2)*sB+(sin i2*(ct+2)*                    cA-st*sA)*cB)))<22&&(round(12+15*(1
-  /(sin i2*(ct+2)*sA+st*cA+5))*(cos                        i2*(ct+2)*sB+(sin i2*(ct+2)*cA-st
-  *sA)*cB)))>=0&&(round(40+30*(1/(                           sin i2*(ct+2)*sA+st*cA+5))*(cos
- i2*(ct+2)*cB-(sin i2*(ct+2)*cA-                              st*sA)*sB)))>=0&&(round(40+30*(
- 1/(sin i2* (ct+2)*sA+st*cA+5))*                              (cos i2*(ct+2)*cB-(sin i2*(ct+2
- )*cA-st*sA)*sB)))<79&&(1/ (sin                                i2*(ct+2)*sA+st*cA+5))>zv then
- {z=set(d ct sA st cA cB sB i2)                                (1/(sin i2*(ct+2)*sA+st*cA+5))
- z,b=set(d ct sA st cA cB sB i2                                )((\nn->if nn <= 0 then" "else
- Maybe.withDefault "▓"( get nn (                              fromList(String.split""(" ,-"++
- "~:;!*$▚▓" )))))(round (8*((st*                              sA- sin i2*ct*cA)*cB-sin i2*ct*
-  sA-st*cA-cos i2*ct*sB))))b}else                            {z=z,b=b }){ z=z,b=b}) ild i re)
-  else(i,ild,re)-------------▀▀██▄▄\                       /-------------------------------/'
-t  =element{init=\_->({a=1,b=1,ax=True                   },Cmd.none),view= \m -> pre [ style
-   "background" "black", style "line-height" "0.98", style "color"  "#ccc" , style "display"
-    "inline-block",onClick"t",style"cursor""pointer"][text((\{a,b}-> String.join""<| toList
-     ((.b)<|(\(_,_,c)->c)<|n (0,{cA=cos a,cB=cos b,sA=sin a, sB=sin b}, Tuple.second (o(0,
-      {b=fromList[],z=fromList[]}))))){a=m.a,b=m.b}), text" ",a[href("https://lucamug" ++
-       ".github.io/elm-donut/"),style"color""#ccc"] [text"Built with Elm"], div[ ] [text
-        " "]],update=\msg m->if msg=="t" then ({m|ax=not m.ax},Cmd.none)else ({m|a=m.a+
-         0.07,b=m.b+0.03},Cmd.none),subscriptions=\m->if m.ax then-------------------/
-           Browser.Events.onAnimationFrameDelta(\_->"")else Sub.none}---------------/
-s            m f z = case m of----------------------------------------------------/
-                Just v->f v-----------------------------------------------------/
-                Nothing->z---------------------------------------------------_/
-main              :Program(){a:Float,b:Float,ax:Bool}String---------------__/
-main                 =t---▀▀█▄▄▄▄-------------------------------▄▄-----__/
---                      \____--▀▀▀█████▄▄▄▄▄▄------▄▄▄▄▄▄▄▄███▀▀--____/
---                           \____----▀▀▀▀▀██████████▀▀▀▀----____/
---                                \_____ @luca_mug 2021 ____/
---                                      `--------------'
-
-``` -->
-   
-  
-   
-  
-   
-  
-   
-  
-   
-
-
-
-
-
