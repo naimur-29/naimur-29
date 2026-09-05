@@ -1,4 +1,5 @@
-# Naimur Rahman
+# Naimur Rahman 
+
 
 ## Python Backend Developer | Django, FastAPI, PostgreSQL | Automation
 
@@ -6,13 +7,13 @@ I build Python backend systems, Django applications, and automation workflows. I
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naimur-rahman-799769202/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32">
   </a>
   <a href="https://dev.naimur29.site/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="28">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" height="32">
   </a>
   <a href="mailto:prof.naimur29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32">
   </a>
 </p>
 
