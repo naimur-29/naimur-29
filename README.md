@@ -24,7 +24,7 @@ I build Python backend systems, Django applications, and automation workflows. I
 **Frontend:** Reactjs, Nextjs & Sveltejs.<br>
 **Backend:** Django, Django REST Framework, FastAPI, Pytorch & Tensorflow.<br>
 **Automation:** Playwright, Selenium, RPA, Workflow Automation & Process Control.<br>
-**Database & Others:** PostgresSQL, Firebase, MongoDB, Docker & Nginx<br>
+**Database & Others:** PostgresSQL, Firebase, MongoDB, Docker & Nginx.<br>
 **Agent-assisted development:** Experienced with Codex and Claude Code as implementation tools, with a heavy focus on self reviewing and shipping working changes.
 
 ## Experiences & Works
