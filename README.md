@@ -1,7 +1,7 @@
 # Naimur Rahman 
 
 
-## Python Backend Developer | Django, FastAPI, PostgreSQL | Automation
+## Backend Python Developer | Django, FastAPI, PostgreSQL | Automation
 
 I build Python backend systems, Django applications, and automation workflows. I am based in Bangladesh and open to international remote backend, automation, and internship roles. I am comfortable with async communication and planned timezone overlap.
 
