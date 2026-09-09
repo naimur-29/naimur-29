@@ -64,14 +64,14 @@ Add one small, approved screenshot beside each project description. Crop out bro
 />
 
 <p>
-  Altrbot is an AlterSense RPA product and the largest Django backend
-  project I have worked on so far. We've helped clients save time on
-  processes such as:
+  Altrbot is an AlterSense RPA product and the largest SaaS Django backend project I have worked on so far. We've automated repetitive tasks and helped clients save huge time on processes such as Data extraction from invoices, POs, Sales Notes, Challans, etc. Then using those data, portal submissions such as EXP Services, Booking, FCR, etc.
 </p>
 
 <ul>
-  <li>Data extraction, including invoices and POs</li>
-  <li>Portal submissions, including booking and issuance</li>
+  <li>I've worked mainly on the back-end while maintaining the legacy front-end.</li>
+  <li>Maintained a legacy Deployment pipeline with Docker for multiple client instances.</li>
+  <li>Experienced professional development environments and team work.</li>
+  <li>Worked heavily with Git and Jira through development lifecycle.</li>
 </ul>
 
 <br clear="right">
@@ -87,13 +87,12 @@ Add one small, approved screenshot beside each project description. Crop out bro
 />
 
 <p>
-  A client project for managing a stream queue. The source repository
-  is private. The project uses React, FastAPI, and MongoDB.
+  A client project for managing a stream queue. User's submitted their songs and joined the queue for review in the stream. The source repository is private. This one of my first real world projects. The project uses React, FastAPI, and MongoDB.
 </p>
 
 <ul>
-  <li>Data extraction, including invoices and POs</li>
-  <li>Portal submissions, including booking and issuance</li>
+  <li>Solved the issue of inconsistent queue system with Nightbot.</li>
+  <li>With this project, I've learned many real world situation and types of exploit users can try with a system.</li>
 </ul>
 
 <br clear="right">
@@ -111,12 +110,12 @@ Add one small, approved screenshot beside each project description. Crop out bro
 
 <p>
   A collaborative React and Firebase application for tracking expenses
-  and income.
+  and income. This was my first project that wasn't developed solo.
 </p>
 
 <ul>
-  <li>Data extraction, including invoices and POs</li>
-  <li>Portal submissions, including booking and issuance</li>
+  <li>Leaned the challenges of teamwork during a collaborative development.</li>
+  <li>Experienced Git & GitHub struggles for the first time. Learned to importance of a git architecture for the first time.</li>
 </ul>
 
 <br clear="right">
@@ -133,13 +132,12 @@ Add one small, approved screenshot beside each project description. Crop out bro
 />
 
 <p>
-  A React, TypeScript, and Firebase project for organizing light novels
+  A React, TypeScript, and Firebase project for light novels
   and web novels.
 </p>
 
 <ul>
-  <li>Data extraction, including invoices and POs</li>
-  <li>Portal submissions, including booking and issuance</li>
+  <li>Explored CSS animations & Dynamic URL systems that hold states.</li>
 </ul>
 
 <br clear="right">
