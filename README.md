@@ -98,7 +98,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 <br clear="right">
 
 <h3>
-  <a href="https://spendwise29.netlify.app">SpendWise</a>
+  <a href="https://spendwise29.naimur29.site">SpendWise</a>
 </h3>
 
 <img
@@ -121,7 +121,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 <br clear="right">
 
 <h3>
-  <a href="https://hiddenreads.netlify.app">Hidden Reads</a>
+  <a href="https://hiddenreads.naimur29.site">Hidden Reads</a>
 </h3>
 
 <img
