@@ -145,7 +145,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 </p>
 
 <ul>
-  <li>Leaned the challenges of teamwork during a collaborative development.</li>
+  <li>Learned the challenges of teamwork during a collaborative development.</li>
   <li>Experienced Git & GitHub struggles for the first time. Learned to importance of a git architecture for the first time.</li>
 </ul>
 
