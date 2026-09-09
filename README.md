@@ -19,13 +19,44 @@ I build Python backend systems, Django applications, and automation workflows. I
 
 ## Skills
 
-### While I'm a programmer and problem solver at core, frameworks and tools I've worked are :-
+I'm a programmer and problem solver at core. These are the frameworks and tools I've worked with.
 
-**Frontend:** Reactjs, Nextjs & Sveltejs.<br>
-**Backend:** Django, Django REST Framework, FastAPI, Pytorch & Tensorflow.<br>
-**Automation:** Playwright, Selenium, RPA, Workflow Automation & Process Control.<br>
-**Database & Others:** PostgresSQL, Firebase, MongoDB, Docker & Nginx.<br>
-**Agent-assisted development:** Experienced with Codex and Claude Code as implementation tools, with a heavy focus on self reviewing and shipping working changes.
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
+### Backend & ML
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-4B5563?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2563EB?style=for-the-badge)
+![Process Control](https://img.shields.io/badge/Process_Control-374151?style=for-the-badge)
+
+### Database & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Agent-assisted development
+
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+Recently I've started using coding agents as implementation tools, with a focus on reviewing generated changes, understanding the code, and shipping working software.
 
 ## Experiences & Works
 
