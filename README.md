@@ -56,7 +56,7 @@ Add one small, approved screenshot beside each project description. Crop out bro
 />
 
 <p>
-  Altrbot is an AlterSense RPA product and the largest SaaS Django backend project I have worked on so far. We've automated repetitive tasks and helped clients save huge time on processes such as Data extraction from invoices, POs, Sales Notes, Challans, etc. Then using those data, portal submissions such as EXP Services, Booking, FCR, etc.
+  Altrbot is an AlterSense RPA product and the largest SaaS Django backend project I have worked on so far. We've automated repetitive tasks and helped clients save huge time on processes such as Data extraction from invoices, POs, Sales Notes, Challans, etc. Then using those data for portal submissions such as EXP Services, Booking, FCR, etc.
 </p>
 
 <ul>
